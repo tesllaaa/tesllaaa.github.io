@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Academic</title>
+    <link>http://localhost:1313/category/git/</link>
+      <atom:link href="http://localhost:1313/category/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Git</title>
+      <link>http://localhost:1313/category/git/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>http://localhost:1313/post/git/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/git/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-и-git&#34;&gt;Управление версиями и Git&lt;/h2&gt;
+&lt;p&gt;Управление версиями – это важный аспект разработки программного обеспечения, который позволяет отслеживать изменения в коде, работать совместно над проектами, возвращаться к предыдущим версиям и многое другое. Один из наиболее популярных инструментов для управления версиями является Git.&lt;/p&gt;
+&lt;h2 id=&#34;git-как-это-работает&#34;&gt;Git: Как это работает?&lt;/h2&gt;
+&lt;p&gt;Git – это распределенная система управления версиями, разработанная Линусом Торвальдсом. Она позволяет разработчикам эффективно управлять изменениями в исходном коде, создавать ветки для разработки новых функций, исправления ошибок и объединения изменений.&lt;/p&gt;
+&lt;h2 id=&#34;основные-понятия-git&#34;&gt;Основные понятия Git&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Репозиторий&lt;/strong&gt;: Это хранилище всех файлов и истории изменений вашего проекта.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Коммиты&lt;/strong&gt;: Записи о изменениях в коде. Каждый коммит имеет уникальный идентификатор и сообщение, описывающее внесенные изменения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветки&lt;/strong&gt;: Ответвления кода, позволяющие разрабатывать новые функции независимо друг от друга.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Слияние (Merge)&lt;/strong&gt;: Процесс объединения изменений из одной ветки в другую.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pull Request (Запрос на слияние)&lt;/strong&gt;: Механизм GitHub для внесения изменений из одной ветки в другую, обсуждения изменений и их проверки перед объединением.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;почему-git-так-популярен&#34;&gt;Почему Git так популярен?&lt;/h2&gt;
+&lt;p&gt;Git обладает рядом преимуществ, которые делают его идеальным инструментом для управления версиями:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Децентрализованность&lt;/strong&gt;: Каждый разработчик имеет полную историю проекта локально, что ускоряет процесс разработки и делает его более гибким.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эффективность&lt;/strong&gt;: Git умеет работать с большими репозиториями и быстро проводить операции с множеством файлов и изменений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветвление и слияние&lt;/strong&gt;: Git обладает мощными возможностями работы с ветками, что позволяет эффективно организовывать разработку и контролировать изменения.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
